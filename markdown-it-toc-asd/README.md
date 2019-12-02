@@ -1,6 +1,8 @@
 # markdown-it-toc-asd
 
 > markdown-it 用于向markdown文档添加目录的插件
+>
+> 基于:[markdown-it-toc-gb](https://www.npmjs.com/package/markdown-it-toc-gb)
 
 ## 用法Usage
 
