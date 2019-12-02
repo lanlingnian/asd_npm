@@ -1,6 +1,6 @@
 {
   "_from": "markdown-it-toc-asd",
-  "_id": "markdown-it-toc-asd@1.1.4",
+  "_id": "markdown-it-toc-asd@1.1.5",
   "_inBundle": false,
   "_integrity": "",
   "_location": "/markdown-it-toc-asd",
@@ -24,7 +24,7 @@
   "_spec": "markdown-it-toc-asd",
   "_where": "C:\\Users\\64206\\Desktop\\node\\book",
   "author": {
-    "name": "javalitterboy"
+    "name": "lanling"
   },
   "bugs": {
     "url": "https://github.com/LItterBoy-GB/markdown-it-toc/issues"
@@ -58,5 +58,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.1.4"
+  "version": "1.1.5",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
