@@ -1,0 +1,62 @@
+{
+  "_from": "markdown-it-toc-asd",
+  "_id": "markdown-it-toc-asd@1.1.2",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/markdown-it-toc-asd",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "markdown-it-toc-asd",
+    "name": "markdown-it-toc-asd",
+    "escapedName": "markdown-it-toc-asd",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "",
+  "_shasum": "50e74a01bc178fc234fdfc387ec3f2f08b76996c",
+  "_spec": "markdown-it-toc-asd",
+  "_where": "C:\\Users\\64206\\Desktop\\node\\book",
+  "author": {
+    "name": "javalitterboy"
+  },
+  "bugs": {
+    "url": "https://github.com/LItterBoy-GB/markdown-it-toc/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "修改自markdown-it-toc-gb工具",
+  "devDependencies": {
+    "coveralls": "^2.11.2",
+    "eslint": "^0.13.0",
+    "eslint-plugin-nodeca": "^1.0.3",
+    "istanbul": "^0.3.5",
+    "markdown-it": "^4.1.0",
+    "markdown-it-testgen": "^0.1.4",
+    "mocha": "^2.1.0"
+  },
+  "homepage": "https://github.com/LItterBoy-GB/markdown-it-toc",
+  "keywords": [
+    "markdown",
+    "markdown-it",
+    "markdown-it-plugin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "markdown-it-toc-asd",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LItterBoy-GB/markdown-it-toc.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.2"
+}
