@@ -49,7 +49,7 @@ a[id*=asd_title_]::before{
 
 效果：
 
-![实例图片](img\head.png)
+![实例图片](https://raw.githubusercontent.com/lanlingnian/asd_npm/master/markdown-it-toc-asd/img/head.png)
 
 
 
